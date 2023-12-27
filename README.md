@@ -38,5 +38,6 @@ cd dnxdai/20232024-01-CT252-B2003731_final/deep-metagnomics-pub-main-final
 ```bash
 ./script-test.sh
 ```
+'.'
 
 
